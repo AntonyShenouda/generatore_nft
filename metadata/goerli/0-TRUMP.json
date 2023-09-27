@@ -1,0 +1,19 @@
+{
+    "name": "TRUMP",
+    "description": "An image of TRUMP!",
+    "image": "https://ipfs.io/ipfs/QmVVgdDSZDBDuVbNrAryUU1AntRB7VY1YW3qrFjgvQcf6a?filename=trump.png",
+    "attributes": [
+        {
+            "trait_type": "controversial",
+            "value": 70
+        },
+        {
+            "trait_type": "influential",
+            "value": 70
+        },
+        {
+            "trait_type": "polarizing",
+            "value": 80
+        }
+    ]
+}
